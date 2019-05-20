@@ -1,0 +1,11 @@
+C:\Users\gogol\source\repos\c#exercises\Factory_Patern\Factory_Patern\bin\Debug\netcoreapp2.2\Factory_Patern.deps.json
+C:\Users\gogol\source\repos\c#exercises\Factory_Patern\Factory_Patern\bin\Debug\netcoreapp2.2\Factory_Patern.runtimeconfig.json
+C:\Users\gogol\source\repos\c#exercises\Factory_Patern\Factory_Patern\bin\Debug\netcoreapp2.2\Factory_Patern.runtimeconfig.dev.json
+C:\Users\gogol\source\repos\c#exercises\Factory_Patern\Factory_Patern\bin\Debug\netcoreapp2.2\Factory_Patern.dll
+C:\Users\gogol\source\repos\c#exercises\Factory_Patern\Factory_Patern\bin\Debug\netcoreapp2.2\Factory_Patern.pdb
+C:\Users\gogol\source\repos\c#exercises\Factory_Patern\Factory_Patern\obj\Debug\netcoreapp2.2\Factory_Patern.csprojAssemblyReference.cache
+C:\Users\gogol\source\repos\c#exercises\Factory_Patern\Factory_Patern\obj\Debug\netcoreapp2.2\Factory_Patern.csproj.CoreCompileInputs.cache
+C:\Users\gogol\source\repos\c#exercises\Factory_Patern\Factory_Patern\obj\Debug\netcoreapp2.2\Factory_Patern.AssemblyInfoInputs.cache
+C:\Users\gogol\source\repos\c#exercises\Factory_Patern\Factory_Patern\obj\Debug\netcoreapp2.2\Factory_Patern.AssemblyInfo.cs
+C:\Users\gogol\source\repos\c#exercises\Factory_Patern\Factory_Patern\obj\Debug\netcoreapp2.2\Factory_Patern.dll
+C:\Users\gogol\source\repos\c#exercises\Factory_Patern\Factory_Patern\obj\Debug\netcoreapp2.2\Factory_Patern.pdb
